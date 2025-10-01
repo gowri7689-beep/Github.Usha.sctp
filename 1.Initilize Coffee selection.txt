@@ -1,0 +1,5 @@
+1.Browse Coffee selection
+2.select the coffee
+3.Amount Paid
+4.Coffee prepared
+5.Enjoy Coffee
